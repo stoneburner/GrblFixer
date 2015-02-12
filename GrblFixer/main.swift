@@ -8,8 +8,6 @@
 
 import Foundation
 
-println(C_ARGC)
-
 if (C_ARGC < 2) {
     println("Usage grblfixer file > output");
 } else {
